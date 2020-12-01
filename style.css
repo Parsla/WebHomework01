@@ -11,23 +11,27 @@ td {
 }
 
 .class2 {
-    height: 100px;
+    height: 100%;
     background: rgb(157, 211, 205);
 }
 
 .class3 {
+    height: 100px;
     background: rgb(82, 109, 108);
 }
 
 .class4 {
+    height: 100%;
     background: rgb(5, 66, 59);
 }
 
 .class5 {
+    height: 100%;
     background: rgb(26, 110, 143);
 }
 
 .class6 {
+    height: 100%;
     background: rgb(136, 161, 158);
 }
 
